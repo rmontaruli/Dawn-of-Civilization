@@ -10,7 +10,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Hochsee-Fischerei</German>
-		<Italian>Ocean Fishery</Italian>
+		<Italian>
+			<Text>Zona oceanica di pesca</Text>
+                        <Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
 		<Spanish>Ocean Fishery</Spanish>
 	</TEXT>
 	<TEXT>
@@ -22,7 +26,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Slave Plantation</German>
-		<Italian>Slave Plantation</Italian>
+		<Italian>                        
+			<Text>Piantagione di schiavi</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Slave Plantation</Spanish>
 	</TEXT>
 	<TEXT>
@@ -34,7 +42,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Orchard</German>
-		<Italian>Orchard</Italian>
+		<Italian>                        
+			<Text>Frutteto</Text>
+                        <Gender>Male</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Orchard</Spanish>
 	</TEXT>
 	<TEXT>
@@ -46,7 +58,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Nature Reserve</German>
-		<Italian>Nature Reserve</Italian>
+		<Italian>                        
+			<Text>Riserva naturale</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Nature Reserve</Spanish>
 	</TEXT>
 	<TEXT>
@@ -58,7 +74,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Marine Reserve</German>
-		<Italian>Marine Reserve</Italian>
+		<Italian>
+			<Text>Area marina protetta</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Marine Reserve</Spanish>
 	</TEXT>
 	<TEXT>
@@ -70,7 +90,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Paddy Field</German>
-		<Italian>Paddy Field</Italian>
+		<Italian>
+			<Text>Risaia</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Paddy Field</Spanish>
 	</TEXT>
 	<TEXT>
@@ -82,7 +106,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Roman Road</German>
-		<Italian>Roman Road</Italian>
+		<Italian>
+			<Text>Strada romana</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+		</Italian>
 		<Spanish>Roman Road</Spanish>
 	</TEXT>
 	<TEXT>
@@ -94,7 +122,11 @@
 			<Plural>0</Plural>
 		</French>
 		<German>Highway</German>
-		<Italian>Highway</Italian>
+		<Italian>
+			<Text>Autostrada</Text>
+                        <Gender>Female</Gender>
+                        <Plural>0</Plural>
+        	</Italian>
 		<Spanish>Highway</Spanish>
 	</TEXT>
 	<TEXT>
