@@ -6,7 +6,7 @@
 		<English>Deforestation</English>
 		<French>Deforestation</French>
 		<German>Deforestation</German>
-		<Italian>Deforestation</Italian>
+		<Italian>Deforestazione</Italian>
 		<Spanish>Deforestation</Spanish>
 	</TEXT>
 	<TEXT>
@@ -14,7 +14,7 @@
 		<English>Create [LINK=IMPROVEMENT_OCEAN_FISHERY]Ocean Fishery[\LINK]</English>
 		<French>Create [LINK=IMPROVEMENT_OCEAN_FISHERY]Ocean Fishery[\LINK]</French>
 		<German>Create [LINK=IMPROVEMENT_OCEAN_FISHERY]Ocean Fishery[\LINK]</German>
-		<Italian>Create [LINK=IMPROVEMENT_OCEAN_FISHERY]Ocean Fishery[\LINK]</Italian>
+		<Italian>Crea una [LINK=IMPROVEMENT_OCEAN_FISHERY]Zona Oceanica di Pesca[\LINK]</Italian>
 		<Spanish>Create [LINK=IMPROVEMENT_OCEAN_FISHERY]Ocean Fishery[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -22,7 +22,7 @@
 		<English>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</English>
 		<French>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</French>
 		<German>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</German>
-		<Italian>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</Italian>
+		<Italian>Crea una [LINK=IMPROVEMENT_SLAVE_PLANTATION]Piantagione di Schiavi[\LINK]</Italian>
 		<Spanish>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -30,7 +30,7 @@
 		<English>Remove [LINK=FEATURE_RAINFOREST]Rainforest[\LINK]</English>
 		<French>Remove [LINK=FEATURE_RAINFOREST]Rainforest[\LINK]</French>
 		<German>Remove [LINK=FEATURE_RAINFOREST]Rainforest[\LINK]</German>
-		<Italian>Remove [LINK=FEATURE_RAINFOREST]Rainforest[\LINK]</Italian>
+		<Italian>Elimina la [LINK=FEATURE_RAINFOREST]Foresta Pluviale[\LINK]</Italian>
 		<Spanish>Remove [LINK=FEATURE_RAINFOREST]Rainforest[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -38,7 +38,7 @@
 		<English>Build a [LINK=ROUTE_ROMAN_ROAD]Roman Road[\LINK]</English>
 		<French>Build a [LINK=ROUTE_ROMAN_ROAD]Roman Road[\LINK]</French>
 		<German>Build a [LINK=ROUTE_ROMAN_ROAD]Roman Road[\LINK]</German>
-		<Italian>Build a [LINK=ROUTE_ROMAN_ROAD]Roman Road[\LINK]</Italian>
+		<Italian>Costruisce una [LINK=ROUTE_ROMAN_ROAD]Strada Romana[\LINK]</Italian>
 		<Spanish>Build a [LINK=ROUTE_ROMAN_ROAD]Roman Road[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -46,7 +46,7 @@
 		<English>Build a [LINK=ROUTE_HIGHWAY]Highway[\LINK]</English>
 		<French>Build a [LINK=ROUTE_HIGHWAY]Highway[\LINK]</French>
 		<German>Build a [LINK=ROUTE_HIGHWAY]Highway[\LINK]</German>
-		<Italian>Build a [LINK=ROUTE_HIGHWAY]Highway[\LINK]</Italian>
+		<Italian>Costruisce una [LINK=ROUTE_HIGHWAY]Autostrada[\LINK]</Italian>
 		<Spanish>Build a [LINK=ROUTE_HIGHWAY]Highway[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -54,7 +54,7 @@
 		<English>Build a [LINK=IMPROVEMENT_ORCHARD]Orchard[\LINK]</English>
 		<French>Build a [LINK=IMPROVEMENT_ORCHARD]Orchard[\LINK]</French>
 		<German>Build a [LINK=IMPROVEMENT_ORCHARD]Orchard[\LINK]</German>
-		<Italian>Build a [LINK=IMPROVEMENT_ORCHARD]Orchard[\LINK]</Italian>
+		<Italian>Pianta un [LINK=IMPROVEMENT_ORCHARD]Frutteto[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_ORCHARD]Orchard[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -62,7 +62,7 @@
 		<English>Build a [LINK=IMPROVEMENT_PADDY_FIELD]Paddy Field[\LINK]</English>
 		<French>Build a [LINK=IMPROVEMENT_PADDY_FIELD]Paddy Field[\LINK]</French>
 		<German>Build a [LINK=IMPROVEMENT_PADDY_FIELD]Paddy Field[\LINK]</German>
-		<Italian>Build a [LINK=IMPROVEMENT_PADDY_FIELD]Paddy Field[\LINK]</Italian>
+		<Italian>Pianta una [LINK=IMPROVEMENT_PADDY_FIELD]Risaia[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_PADDY_FIELD]Paddy Field[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -70,7 +70,7 @@
 		<English>Build a [LINK=IMPROVEMENT_NATURE_RESERVE]Nature Reserve[\LINK]</English>
 		<French>Build a [LINK=IMPROVEMENT_NATURE_RESERVE]Nature Reserve[\LINK]</French>
 		<German>Build a [LINK=IMPROVEMENT_NATURE_RESERVE]Nature Reserve[\LINK]</German>
-		<Italian>Build a [LINK=IMPROVEMENT_NATURE_RESERVE]Nature Reserve[\LINK]</Italian>
+		<Italian>Costruisce una [LINK=IMPROVEMENT_NATURE_RESERVE]Riserva Naturale[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_NATURE_RESERVE]Nature Reserve[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -78,7 +78,7 @@
 		<English>Create [LINK=IMPROVEMENT_MARINE_RESERVE]Marine Reserve[\LINK]</English>
 		<French>Create [LINK=IMPROVEMENT_MARINE_RESERVE]Marine Reserve[\LINK]</French>
 		<German>Create [LINK=IMPROVEMENT_MARINE_RESERVE]Marine Reserve[\LINK]</German>
-		<Italian>Create [LINK=IMPROVEMENT_MARINE_RESERVE]Marine Reserve[\LINK]</Italian>
+		<Italian>Crea una [LINK=IMPROVEMENT_MARINE_RESERVE]Riserva Marina[\LINK]</Italian>
 		<Spanish>Create [LINK=IMPROVEMENT_MARINE_RESERVE]Marine Reserve[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -86,7 +86,7 @@
 		<English>Build a [LINK=IMPROVEMENT_HAMLET]Hamlet[\LINK]</English>
 		<French>Build a [LINK=IMPROVEMENT_HAMLET]Hamlet[\LINK]</French>
 		<German>Build a [LINK=IMPROVEMENT_HAMLET]Hamlet[\LINK]</German>
-		<Italian>Build a [LINK=IMPROVEMENT_HAMLET]Hamlet[\LINK]</Italian>
+		<Italian>Costruisce un [LINK=IMPROVEMENT_HAMLET]Villaggio[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_HAMLET]Hamlet[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -141,7 +141,7 @@
 		<Tag>TXT_KEY_ACTION_GREAT_MISSION</Tag>
 		<English>The Great Person will spread your state religion in several surrounding cities, potentially causing other religions to leave. It consumes the Great Person.</English>
 		<French>The Great Person will spread your state religion in several surrounding cities, potentially causing other religions to leave. It consumes the Great Person.</French>
-		<German>Die Gro&#223;e Pers&#246;nlichkeit wird Eure Staatsreligion in mehreren St�dten in der Umgebung verbreiten und dabei m�glicherweise andere Religionen entfernen. Die Gro&#223;e Pers&#246;nlichkeit wird dabei aufgebraucht.</German>
+		<German>Die Gro&#223;e Pers&#246;nlichkeit wird Eure Staatsreligion in mehreren Städten in der Umgebung verbreiten und dabei möglicherweise andere Religionen entfernen. Die Gro&#223;e Pers&#246;nlichkeit wird dabei aufgebraucht.</German>
 		<Italian>The Great Person will spread your state religion in several surrounding cities, potentially causing other religions to leave. It consumes the Great Person.</Italian>
 		<Spanish>The Great Person will spread your state religion in several surrounding cities, potentially causing other religions to leave. It consumes the Great Person.</Spanish>
 	</TEXT>
@@ -181,7 +181,7 @@
 		<Tag>TXT_KEY_MISSION_GREAT_MISSION</Tag>
 		<English>Great Mission</English>
 		<French>Great Mission</French>
-		<German>Gro�e Mission</German>
+		<German>Große Mission</German>
 		<Italian>Great Mission</Italian>
 		<Spanish>Great Mission</Spanish>
 	</TEXT>
@@ -205,7 +205,7 @@
 		<Tag>TXT_KEY_ESPIONAGE_SEE_ESPIONAGE_HELP</Tag>
 		<English>Lets you see more details about a rival civilization's espionage against you in the Espionage Advisor.</English>
 		<French>Lets you see more details about a rival civilization's espionage against you in the Espionage Advisor.</French>
-		<German>Zeigt zusätzliche Details über die Spionage einer gegnerischen Zivilisation im Spionageberater an</German>
+		<German>Zeigt zusÃ¤tzliche Details Ã¼ber die Spionage einer gegnerischen Zivilisation im Spionageberater an</German>
 		<Italian>Lets you see more details about a rival civilization's espionage against you in the Espionage Advisor.</Italian>
 		<Spanish>Lets you see more details about a rival civilization's espionage against you in the Espionage Advisor.</Spanish>
 	</TEXT>
