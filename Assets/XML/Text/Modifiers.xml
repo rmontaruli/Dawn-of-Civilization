@@ -6,7 +6,7 @@
 		<English>Modifiers</English>
 		<French>Modifiers</French>
 		<German>Modifiers</German>
-		<Italian>Modifiers</Italian>
+		<Italian>Modificatori</Italian>
 		<Spanish>Modifiers</Spanish>
 	</TEXT>
 	<TEXT>
@@ -14,7 +14,7 @@
 		<English>Culture</English>
 		<French>Culture</French>
 		<German>Culture</German>
-		<Italian>Culture</Italian>
+		<Italian>Cultura</Italian>
 		<Spanish>Culture</Spanish>
 	</TEXT>
 	<TEXT>
@@ -22,7 +22,7 @@
 		<English>Unit upkeep</English>
 		<French>Unit upkeep</French>
 		<German>Unit upkeep</German>
-		<Italian>Unit upkeep</Italian>
+		<Italian>Mantenimento unit&#224;</Italian>
 		<Spanish>Unit upkeep</Spanish>
 	</TEXT>
 	<TEXT>
@@ -30,7 +30,7 @@
 		<English>Research cost</English>
 		<French>Research cost</French>
 		<German>Research cost</German>
-		<Italian>Research cost</Italian>
+		<Italian>Costi di ricerca</Italian>
 		<Spanish>Research cost</Spanish>
 	</TEXT>
 	<TEXT>
@@ -38,7 +38,7 @@
 		<English>Distance maintenance</English>
 		<French>Distance maintenance</French>
 		<German>Distance maintenance</German>
-		<Italian>Distance maintenance</Italian>
+		<Italian>Mantenimento</Italian>
 		<Spanish>Distance maintenance</Spanish>
 	</TEXT>
 	<TEXT>
@@ -46,7 +46,7 @@
 		<English>Cities maintenance</English>
 		<French>Cities maintenance</French>
 		<German>Cities maintenance</German>
-		<Italian>Cities maintenance</Italian>
+		<Italian>Manutenzione delle citt&#224;</Italian>
 		<Spanish>Cities maintenance</Spanish>
 	</TEXT>
 	<TEXT>
@@ -62,7 +62,7 @@
 		<English>Free health</English>
 		<French>Free health</French>
 		<German>Free health</German>
-		<Italian>Free health</Italian>
+		<Italian>Salute pubblica</Italian>
 		<Spanish>Free health</Spanish>
 	</TEXT>
 	<TEXT>
@@ -70,7 +70,7 @@
 		<English>Unit production costs</English>
 		<French>Unit production costs</French>
 		<German>Unit production costs</German>
-		<Italian>Unit production costs</Italian>
+		<Italian>Costi di produzione unit&#224;</Italian>
 		<Spanish>Unit production costs</Spanish>
 	</TEXT>
 	<TEXT>
@@ -78,7 +78,7 @@
 		<English>Wonder costs</English>
 		<French>Wonder costs</French>
 		<German>Wonder costs</German>
-		<Italian>Wonder costs</Italian>
+		<Italian>Costi delle meraviglie</Italian>
 		<Spanish>Wonder costs</Spanish>
 	</TEXT>
 	<TEXT>
@@ -86,7 +86,7 @@
 		<English>Building costs</English>
 		<French>Building costs</French>
 		<German>Building costs</German>
-		<Italian>Building costs</Italian>
+		<Italian>Costi degli edifici</Italian>
 		<Spanish>Building costs</Spanish>
 	</TEXT>
 	<TEXT>
@@ -94,7 +94,7 @@
 		<English>Inflation rate</English>
 		<French>Inflation rate</French>
 		<German>Inflation rate</German>
-		<Italian>Inflation rate</Italian>
+		<Italian>Tasso di inflazione</Italian>
 		<Spanish>Inflation rate</Spanish>
 	</TEXT>
 	<TEXT>
@@ -110,7 +110,7 @@
 		<English>Growth threshold</English>
 		<French>Growth threshold</French>
 		<German>Growth threshold</German>
-		<Italian>Growth threshold</Italian>
+		<Italian>Limite di crescita</Italian>
 		<Spanish>Growth threshold</Spanish>
 	</TEXT>
 </Civ4GameText>
